@@ -13,3 +13,7 @@ var greeting = "Greetings," + first_name;
 console.log(greeting);
 ``` 
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
