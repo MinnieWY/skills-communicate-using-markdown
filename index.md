@@ -1,4 +1,5 @@
-# Hello World
+# Practice on Markdown
+
 ## Header
 #### This is an `<h4>` header
 
@@ -7,5 +8,8 @@
 
 ## Code Block
 ```javascript
-var greeting = "Greetings, world~"
-```
+var first_name = "Minnie";
+var greeting = "Greetings," + first_name;
+console.log(greeting);
+``` 
+
